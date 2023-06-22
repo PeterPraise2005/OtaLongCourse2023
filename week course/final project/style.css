@@ -1,0 +1,20 @@
+.nav{
+    background-color: black;
+    overflow: hidden;
+}
+.nav a{
+    float: left;
+    color: white;
+   text-align: right;
+    padding:2rem ;
+    text-decoration: none;
+    font-size: 20px;
+}
+.nav a:hover{
+    background-color: black;
+    color: white;
+}
+.nav a.active{
+    background-color: black;
+    color: white;
+}
